@@ -4,8 +4,8 @@ This is an educational project with the purpose of learning and understanding th
 
 This project is focusing on Front end and was made in three parts:
 
--creation in vanilla js
--refactor to Typescript
+-creation in vanilla js  
+-refactor to Typescript  
 -refactor to react using Typescript.
 
 this project is up and running and can be accessed via github pages:
